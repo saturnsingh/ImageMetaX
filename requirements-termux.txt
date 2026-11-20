@@ -1,0 +1,6 @@
+Pillow>=10.0
+requests>=2.31
+beautifulsoup4>=4.12
+# GUI packages are intentionally omitted; Termux is CLI-first.
+PyExifTool>=0.5
+pillow-heif>=0.16
